@@ -87,6 +87,5 @@ user = {
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuPerfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-SeuUsuario-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-SeuEmail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-a-souza-75374b262/)
+[![Gmail](https://img.shields.io/badge/Gmail-vinicius.asouza%40sptech.school-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.asouza@sptech.school)
