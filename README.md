@@ -1,12 +1,10 @@
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **SPtech**, apaixonado por **Análise de Dados, Business Intelligence e Desenvolvimento**.
-
-Tenho foco na resolução de problemas práticos, buscando sempre entender a fundo os processos operacionais para criar automações e dashboards que otimizem rotinas e ajudem na tomada de decisão.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **SPtech**, apaixonado por **Tecnologia**.
 
 ```python
 user = {
-    "localização": "São Paulo, Brasil 📍",
+    "localização": "São Paulo, Brasil",
     "formação":    "Análise e Desenvolvimento de Sistemas — SPtech",
     "técnico":      "Desenvolvimento de Sistemas — ETEC Lauro Gomes",
     "idiomas":      "Inglês Avançado 🇺🇸",
@@ -34,45 +32,6 @@ user = {
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### ⚡ Automação de Alertas de Ordens de Serviço (WhatsApp)
-> Otimização de fluxo de comunicação em tempo real para o setor produtivo.
-
-- **Desenvolvimento:** Automação em Python e Power Automate para envio instantâneo de alertas de manutenção em grupos de WhatsApp.
-- **Resultado:** Redução do tempo de notificação de **15 minutos para 3 segundos**, aumentando as horas produtivas e reduzindo o tempo de máquina parada.
-
-`Python` `Power Automate` `Automação de Processos`
-
----
-
-### 🏭 App de Apontamento Fabril & BI Automático
-> Informatização do processo de chão de fábrica e inteligência de dados.
-
-- **Desenvolvimento:** Criação de aplicativo no **Power Apps** para digitalização de apontamentos operacionais da fábrica.
-- **Integração:** Envio e atualização automática de relatórios gerenciais no **Power BI** para acompanhamento de KPIs de gestão e custos de manutenção.
-
-`Power Apps` `Power BI` `Power Automate` `Gestão de Custos`
-
----
-
-### 💰 App de Controle Financeiro Pessoal (TCC Técnico)
-> Aplicativo mobile integrado com IA e dados do setor financeiro.
-
-- **Desenvolvimento:** Aplicativo nativo em Java construído no Android Studio para controle de finanças pessoais.
-- **Integrações:** Consumo de API da IA do **Gemini** (para insights financeiros) e integração com a API do **Banco Central do Brasil**.
-
-`Java` `Android Studio` `API Gemini` `API Banco Central`
-
-[![Repo](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github)](#)
-
----
-
-### 🖥️ Automação de Consultas de Sistema (GUI / PySimpleGUI)
-> Automação de tarefas repetitivas via mapeamento de coordenadas na tela.
-
-- **Desenvolvimento:** Criação de scripts em Python utilizando **PySimpleGUI** para execução de consultas rápidas e automatizadas em sistemas legados sem API.
-
 `Python` `PySimpleGUI` `RPA`
 
 ---
@@ -88,4 +47,4 @@ user = {
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-a-souza-75374b262/)
-[![Gmail](https://img.shields.io/badge/Gmail-vinicius.asouza%40sptech.school-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.asouza@sptech.school)
+(mailto:vinicius.asouza@sptech.school)
