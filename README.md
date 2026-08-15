@@ -47,4 +47,3 @@ user = {
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-a-souza-75374b262/)
-(mailto:vinicius.asouza@sptech.school)
